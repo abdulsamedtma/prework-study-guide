@@ -9,7 +9,7 @@ Motivated by my personal zeal for software development with a fulfillment in my 
  As a boot camp student, I want the prework notes to be structured on a webpage so that I can easily find and read the information.
 
 
-- Understanding computational thinking is a framework for tackling problems a fundemental concept in problem solving as a developer. Learn the bacis concept of using HTML to structure a page, using the external CSS style sheet to make the page more appealing to users. Also included JavaScript to make the webpage interactivity and user friendly.
+- Understanding computational thinking is a framework for tackling problems which is a fundemental concept in problem solving as a developer. Learn the bacis concept of using HTML to structure a page, using the external CSS style sheet to make the page more appealing to users. Also included JavaScript to make the webpage interactivity and user friendly.
 
 ## Installaion
 
